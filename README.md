@@ -1,1 +1,7 @@
-# codog-in-github.github.io
+# 无聊的仓库
+想到啥就写点
+
+CSS 、 HTML 、 JS 就酱紫。 
+
+## 目录
+- [随便试试排版](./design/)
