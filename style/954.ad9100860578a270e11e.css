@@ -1,1 +1,0 @@
-body{align-self:center;display:flex;height:100vh;justify-content:center;width:100vw}.button{background-color:red;border-radius:.5em;box-shadow:0 .5em 0 #000;color:#fff;cursor:pointer;display:inline-block;padding:1em;position:relative;top:0;transition:all .2s;user-select:none}.button:active{box-shadow:0 0 0 #000;filter:brightness(90%);top:.5em}
